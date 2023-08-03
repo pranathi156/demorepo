@@ -1,0 +1,51 @@
+AWS EC2?
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, 
+resizable compute capacity in the cloud.
+
+AWS Free tier?
+The AWS Free Tier provides customers the ability to explore and try out AWS services 
+free of charge up to specified limits for each service. 
+
+AWS pricing calculator?
+AWS Pricing Calculator is a web-based planning tool that you can use to create estimates for your AWS use cases.
+
+How to Create AWS EC2 instance?
+1.login to aws account
+2.launch instance
+3.choose AMI
+4.choose EC2 instance type
+5.key pair
+6.configure security groups
+
+AMI-amazon machine images?
+An AMI contains the software configuration (like os, app'n servers) required for the creation of EC2 instances. 
+When you launch an instance, you must specify an AMI.
+
+AWS instance types and how to choose?
+
+AWS EBS volume?
+Amazon Elastic Block Store (AWS EBS) is a raw block-level storage service 
+designed to be used with Amazon EC2 instances.
+
+AWS key pair?
+A key pair consisting of a public key and private key, that allow us to connect to our instance securely.
+
+Change EC2 instance type?
+
+Explore AWS billing dashboard?
+
+what is security group?
+It acts as a firewall that controls traffic for one or more instances.
+at instance level.
+
+why security groups are stateful?
+Security groups are Stateful as they use Connection tracking to track information about traffic to and from the instance.
+
+AWS Lambda?
+AWS Lambda is the event-based serverless computing service for the AWS platform.
+
+cloudwatch logs group?
+ A log group is a group of log streams that share the same retention, monitoring, and access control settings.
+
+
+
